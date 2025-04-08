@@ -12,6 +12,10 @@ python start.py -i 192.168.177.146 -t static
 
 和上面差不多
 
+## CVE-2025-24813 tomcat-rce
+
+同上
+
 ## 哥斯拉二开
 
 参考https://github.com/kong030813/Z-Godzilla_ekp
