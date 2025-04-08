@@ -16,6 +16,10 @@ python start.py -i 192.168.177.146 -t static
 
 同上
 
+## CVE-2025-30208
+
+vite前台任意文件读取漏洞
+
 ## 哥斯拉二开
 
 参考https://github.com/kong030813/Z-Godzilla_ekp
